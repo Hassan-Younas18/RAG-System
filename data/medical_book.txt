@@ -1,0 +1,29 @@
+Introduction to Human Physiology
+
+The human body is composed of several organ systems that work together to maintain homeostasis. Homeostasis is the maintenance of a stable internal environment despite changes in external conditions. Key regulated variables include body temperature, blood pH, blood glucose concentration, and fluid balance.
+
+The Cardiovascular System
+
+The cardiovascular system consists of the heart, blood vessels, and blood. The heart is a muscular organ that pumps blood throughout the body. It has four chambers: the right atrium, right ventricle, left atrium, and left ventricle. Deoxygenated blood enters the right atrium, passes to the right ventricle, and is pumped to the lungs through the pulmonary artery. Oxygenated blood returns from the lungs to the left atrium, moves to the left ventricle, and is pumped to the body through the aorta.
+
+Blood pressure is the force exerted by circulating blood on the walls of blood vessels. It is recorded as two numbers: systolic pressure (when the heart contracts) over diastolic pressure (when the heart relaxes). A normal blood pressure reading for a healthy adult is approximately 120/80 mmHg. Hypertension, or high blood pressure, is a condition in which blood pressure is persistently elevated, increasing the risk of heart disease and stroke.
+
+The Respiratory System
+
+The respiratory system is responsible for gas exchange, supplying oxygen to the blood and removing carbon dioxide. Air enters through the nose and mouth, travels down the trachea, and reaches the lungs through the bronchi. Inside the lungs, the bronchi divide into smaller bronchioles that end in tiny air sacs called alveoli. Gas exchange occurs across the thin walls of the alveoli, where oxygen diffuses into the blood and carbon dioxide diffuses out.
+
+The Digestive System
+
+The digestive system breaks down food into nutrients that the body can absorb. Digestion begins in the mouth, where teeth grind food and saliva begins to break down carbohydrates. Food then passes through the esophagus to the stomach, where gastric acid and enzymes break down proteins. The small intestine is the main site of nutrient absorption, while the large intestine absorbs water and forms waste. The liver produces bile, which helps digest fats, and the pancreas secretes digestive enzymes and the hormone insulin.
+
+Insulin and Blood Glucose
+
+Insulin is a hormone produced by the beta cells of the pancreas. It lowers blood glucose levels by allowing cells to take up glucose from the bloodstream. When insulin production is insufficient or the body becomes resistant to insulin, blood glucose levels rise, leading to a condition known as diabetes mellitus. Type 1 diabetes results from the immune system destroying insulin-producing cells, while Type 2 diabetes is associated with insulin resistance and is often linked to lifestyle factors.
+
+The Nervous System
+
+The nervous system controls and coordinates body activities. It is divided into the central nervous system (the brain and spinal cord) and the peripheral nervous system (the nerves outside the brain and spinal cord). Neurons are the basic functional units of the nervous system. They transmit electrical and chemical signals. The brain processes information, controls movement, and is responsible for thought, memory, and emotion.
+
+Common Symptoms and First Aid
+
+A fever is a temporary increase in body temperature, often due to infection. Rest and fluids are commonly recommended. Dehydration occurs when the body loses more fluid than it takes in; symptoms include thirst, dry mouth, and dizziness, and treatment involves replacing lost fluids. For a minor burn, the affected area should be cooled under running water for several minutes. In any serious medical emergency, professional medical help should be sought immediately.

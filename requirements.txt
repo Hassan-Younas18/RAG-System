@@ -1,0 +1,16 @@
+# Web server for the chat interface
+flask>=3.0.0
+
+# Core deep-learning stack (CPU is enough for this project)
+torch>=2.0.0
+transformers>=4.40.0
+sentence-transformers>=2.7.0
+
+# Vector database for retrieval
+faiss-cpu>=1.8.0
+
+# PDF text extraction
+pypdf>=4.0.0
+
+# Utilities
+numpy>=1.24.0

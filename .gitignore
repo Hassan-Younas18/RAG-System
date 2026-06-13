@@ -1,0 +1,22 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# HuggingFace model cache (downloaded at runtime, not committed)
+.cache/
+
+# FAISS index and chunk files (built from the PDF at runtime)
+vector_store/faiss_index.bin
+vector_store/chunks.json
+
+# Uploaded / temporary PDFs
+*.pdf
+
+# OS artefacts
+.DS_Store
+Thumbs.db
