@@ -9,15 +9,6 @@ Runs entirely on CPU — no GPU, no paid API keys, no cloud services required.
 
 ---
 
-## Demo
-
-1. Start the server → open `http://127.0.0.1:5000` → upload a medical PDF → ask questions.
-
-![chat interface](https://raw.githubusercontent.com/Hassan-Younas18/RAG-System/master/docs/screenshot.png)
-*(screenshot placeholder — replace with your own)*
-
----
-
 ## How It Works
 
 ```
